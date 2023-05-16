@@ -1,5 +1,6 @@
 {
   "name": "expense-tracker",
+  "homepage": "https://ChaturvediIshika.github.io/expense-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +40,5 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  },
-  "homepage": "https://chaturvediishika.github.io/expense-tracker"
+  }
 }
